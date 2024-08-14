@@ -1,1 +1,1 @@
-# Google-Stock-Price-Prediction-usinfg-RNN
+# Google-Stock-Price-Prediction-using-RNN
